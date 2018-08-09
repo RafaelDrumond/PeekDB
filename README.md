@@ -1,4 +1,4 @@
-# UffMotionDB
+# PeekDB
 
 If you want to use this data-set please reference it as:
 ```
